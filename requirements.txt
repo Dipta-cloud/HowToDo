@@ -1,0 +1,9 @@
+tkinter
+
+DateTime
+Pillow
+pipwin
+pyttsx3
+pywikihow
+pycopy-webbrowser
+SpeechRecognition
